@@ -1,4 +1,4 @@
-package fc.java.part2;
+package fc.java.course2.part2;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
